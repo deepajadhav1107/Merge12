@@ -1,0 +1,9 @@
+class Simple1{
+    public static void main(String args[])
+        {
+         int x=90;
+         int y=20;
+         int sub=x-y;
+         System.out.println("SUB is"+sub);   
+        }
+}
